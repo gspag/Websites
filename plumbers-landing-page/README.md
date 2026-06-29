@@ -1,22 +1,33 @@
-# Plumbers Landing Page
+# Sandbox Website Test
 
-Static landing page files for a generic plumbing/home-services lead generation page.
+## Project
+
+* Tenant ID: tenant-demo-001
+* Project ID: project-demo-plumbing-001
+* Business: Sunrise Plumbing Co.
+* Industry: Local home services / plumbing
+* Service Area: Orlando, FL
 
 ## Files
 
-- `index.html` — static landing page entry point
-- `style.css` — page styling and responsive layout
+* index.html
+* assets/css/styles.css
+* README.md
 
-## Review before publishing
+## What This Test Proves
 
-Replace placeholder contact details before public launch:
+This test checks whether the system can create an isolated project folder, generate a simple static site, keep files scoped to the active tenant/project workspace, and avoid deployment or production publishing.
 
-- Business name
-- Phone number
-- Email address
-- Service area
-- Any real proof points, licenses, reviews, or guarantees that can be verified
+## What Is Not Included
 
-## Local preview
+* No backend
+* No working form
+* No real deployment
+* No FTP/SFTP
+* No WordPress theme
+* No real client data
+* No fake reviews, testimonials, licenses, certifications, or guarantees
 
-Open `index.html` in a browser.
+## How To Preview
+
+Open index.html in a browser.
